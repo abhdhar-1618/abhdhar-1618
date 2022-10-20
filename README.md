@@ -8,4 +8,3 @@
 - 💬 Ask me about Data Patterns and Fraud
 - 📫 How to reach me: abhikdhar2006@gmail.com & 9073957139
 - ⚡ Fun fact: You are literally made out from the materials that came out of a Supernova..!
--->
