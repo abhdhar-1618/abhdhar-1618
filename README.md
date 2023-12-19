@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce Fraud Detection<br>- 🌱 I’m currently learning Python,SQL,R,Power BI<br>- 👯 I’m looking to collaborate with Anyone in Data Analysis and Finance <br>- 🤔 I’m looking for help with open source projects<br>- 💬 Ask me about Data Patterns and Fraud<br>- 📫 How to reach me: abhikdhar2006@gmail.com & 9073957139<br>- ⚡ Fun fact: You're the spectacular result of a cosmic explosion's whimsical crafting!
+🔭 I’m currently working on E-Commerce Fraud Detection<br>- 🌱 I’m currently learning Python,SQL,R,Power BI<br>- 👯 I’m looking to collaborate with Anyone in Data Analysis and Finance <br>- 🤔 I’m looking for help with open source projects<br>- 💬 Ask me about Data Patterns and Fraud and risk investigations<br>- 📫 How to reach me: abhikdhar2006@gmail.com & 9073957139<br>- ⚡ Fun fact: You're the spectacular result of a cosmic explosion's whimsical crafting!
 
 
 ## 🌐 Socials:
